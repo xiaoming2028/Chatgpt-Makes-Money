@@ -1,4 +1,4 @@
-### [国内注册登录 ChatGPT 的方法（100%可用） ](https://github.com/xiaoming2028/FreePAC/wiki/ChatGPT%E6%B3%A8%E5%86%8C%E6%95%99%E7%A8%8B%EF%BC%88%E5%AE%8C%E6%95%B4%E6%8C%87%E5%8D%97%EF%BC%89)
+### [国内注册登录 ChatGPT 的方法（100%可用） ](https://github.com/xiaoming2028/PAC/wiki/ChatGPT%E6%B3%A8%E5%86%8C%E6%95%99%E7%A8%8B%EF%BC%88%E5%AE%8C%E6%95%B4%E6%8C%87%E5%8D%97%EF%BC%89)
 
 ### 点赞分享
 
@@ -427,4 +427,4 @@ ChatGPT 的文字生成能力，故事生成能力超强，可以生成大量的
 
 ChatGPT 的潘多拉魔盒既然已经打开，那人类肯定无法回到从前，这就是重新洗牌的时机，谁抓住了就能够弯道超车。不管怎样，不管能力多少，当下确实是咱们能小赚一笔的机会，希望大家都能通过上面列的这些方法走通自己的商业闭环。不过也要提醒大家，不要太关注技巧，真正的提高自己才是根本之到。后面等我找到更多的案例还会再出新的版本，如果您有任何意见建议请及时反馈给我。
 
-### [国内注册登录 ChatGPT 的方法（100%可用）](https://github.com/xiaoming2028/FreePAC/wiki/ChatGPT%E6%B3%A8%E5%86%8C%E6%95%99%E7%A8%8B%EF%BC%88%E5%AE%8C%E6%95%B4%E6%8C%87%E5%8D%97%EF%BC%89)
+### [国内注册登录 ChatGPT 的方法（100%可用）](https://github.com/xiaoming2028/PAC/wiki/ChatGPT%E6%B3%A8%E5%86%8C%E6%95%99%E7%A8%8B%EF%BC%88%E5%AE%8C%E6%95%B4%E6%8C%87%E5%8D%97%EF%BC%89)
