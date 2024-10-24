@@ -1,4 +1,4 @@
-# [机场推荐](https://github.com/xiaoming2028/PAC)
+# [ChatGPT可用机场推荐](https://github.com/xiaoming2028/PAC)
 
 ## [国内注册登录 ChatGPT 的方法（100%可用） ](https://github.com/xiaoming2028/PAC/wiki/ChatGPT%E6%B3%A8%E5%86%8C%E6%95%99%E7%A8%8B%EF%BC%88%E5%AE%8C%E6%95%B4%E6%8C%87%E5%8D%97%EF%BC%89)
 
