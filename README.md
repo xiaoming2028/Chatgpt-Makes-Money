@@ -1,6 +1,6 @@
 # [ChatGPT可用机场推荐](https://github.com/xiaoming2028/PAC)
 
-## [国内注册登录 ChatGPT 的方法（100%可用） ](https://github.com/xiaoming2028/PAC/wiki/ChatGPT%E6%B3%A8%E5%86%8C%E6%95%99%E7%A8%8B%EF%BC%88%E5%AE%8C%E6%95%B4%E6%8C%87%E5%8D%97%EF%BC%89)
+## [登录 Codex 强制要求验证手机号怎么办？ ](https://github.com/xiaoming2028/Chatgpt-Makes-Money/wiki/%E7%99%BB%E5%BD%95-Codex-%E5%BC%BA%E5%88%B6%E8%A6%81%E6%B1%82%E9%AA%8C%E8%AF%81%E6%89%8B%E6%9C%BA%E5%8F%B7%E6%80%8E%E4%B9%88%E5%8A%9E%EF%BC%9F%E6%8F%AD%E7%A7%98-OpenAI-%E6%9C%80%E6%96%B0%E9%A3%8E%E6%8E%A7%E4%B8%8E%E7%A0%B4%E5%B1%80%E6%96%B9%E6%A1%88)
 
 ## [Claude Code防封号&Persona实名认证规避完整指南](https://github.com/xiaoming2028/claudecodefangfeng)
 
